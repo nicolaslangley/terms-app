@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class ProjectAlphaTests: XCTestCase {
+class TermsTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
