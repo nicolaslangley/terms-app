@@ -16,10 +16,3 @@ DerivedData
 .idea/
 *.hmap
 *.xccheckout
-
-# CocoaPods
-#-- Want to allow other developers to pull and run
-Pods
-
-# Exclude the Moxtra SDK
-ProjectAlpha/Helpers/MoxtraConversationSDK.sdk
