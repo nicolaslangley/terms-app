@@ -1,4 +1,4 @@
-# Terms ![](https://github.com/nicolaslangley/terms-app/blob/master/Terms/Resources/TermsIcon.png=120x120)
+# Terms <a href="url"><img src="https://github.com/nicolaslangley/terms-app/blob/master/Terms/Resources/TermsIcon.png" align="left" height="48" width="48" ></a>
 ## Analyze Your Apps
 
 
